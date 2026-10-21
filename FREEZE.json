@@ -1,0 +1,15 @@
+{
+  "frozen_at_utc": "2026-10-21T00:53:31.212957+00:00",
+  "schema_version": 1,
+  "sha256": {
+    ".gitignore": "d43365e9228a369d54c05cad3aefdedf2ebb2445676babda5ecfde2e01da60c7",
+    "PROTOCOL.md": "d183e1c9d3727aa9a3ca58cd23548566496a5ab454039ca5addb3dc3f54176a9",
+    "analyze.py": "7b7effb04a3644748ba57d57a07bdf454f9863002d6dfaf6b2fdeea35cfbc0e1",
+    "protocol.json": "dbbd4675bb761e545a2b49216e66ff8033bd895e4bd7a1f010ad44423d278944",
+    "run.py": "a40a45c43416c459083c9ad680be355d646a05dfca96cfc78e048ca38547f860",
+    "run.sh": "8486f4e49055f9c5f2e7f7975be91e991233e7a71e016f83f5d9053cab16fd7e",
+    "tests/test_artifact.py": "3468a08605f06a55032f1157019f82c146533eb957c8b3af0eb8f07dfbe559cc",
+    "verify.py": "d835c568e257251fa51ce7613429def64cd335a0c1969ec232f22561b1ec830f",
+    "verify.sh": "645e005fb12b3354b46ca7e613c4b409a75904352b845986155a5ea458342f28"
+  }
+}
